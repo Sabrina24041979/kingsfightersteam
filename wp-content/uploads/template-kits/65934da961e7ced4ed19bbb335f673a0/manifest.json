@@ -1,0 +1,1037 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Ancorathemes Boxing & Fighting Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/shop\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home-2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block Header Style 1",
+            "screenshot": "screenshots\/block-header-style-1.jpg",
+            "source": "templates\/block-header-style-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=block-header-style-1",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Block Header Style 2",
+            "screenshot": "screenshots\/block-header-style-2.jpg",
+            "source": "templates\/block-header-style-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=block-header-style-2",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=shop-single",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer main",
+            "screenshot": "screenshots\/footer-main.jpg",
+            "source": "templates\/footer-main.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=footer-main",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer with menu",
+            "screenshot": "screenshots\/footer-with-menu.jpg",
+            "source": "templates\/footer-with-menu.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=footer-with-menu",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header Over 1",
+            "screenshot": "screenshots\/header-over-1.jpg",
+            "source": "templates\/header-over-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=header-over-1",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header Over 2",
+            "screenshot": "screenshots\/header-over-2.jpg",
+            "source": "templates\/header-over-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=header-over-2",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Classes",
+            "screenshot": "screenshots\/classes.jpg",
+            "source": "templates\/classes.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/classes\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Prices",
+            "screenshot": "screenshots\/prices.jpg",
+            "source": "templates\/prices.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/prices\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contacts",
+            "screenshot": "screenshots\/contacts.jpg",
+            "source": "templates\/contacts.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/contacts\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Locations",
+            "screenshot": "screenshots\/locations.jpg",
+            "source": "templates\/locations.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/locations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery-2",
+            "screenshot": "screenshots\/gallery-2.jpg",
+            "source": "templates\/gallery-2.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/template-kit\/gallery-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/?elementor_library=single-post",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "iFeed For Elementor",
+            "version": "1.0.6",
+            "file": "ifeed-for-elementor\/ifeed-for-elementor.php",
+            "author": "wpconcern"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "4.1.0",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.4",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.2",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        }
+    ],
+    "images": [
+        {
+            "filename": "beautiful-fit-woman-in-sportswear-boxing-kicking-b-D2GE5PM.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/beautiful-fit-woman-in-sportswear-boxing-kicking-b-D2GE5PM-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 242219,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D2GE5PM"
+        },
+        {
+            "filename": "afro-american-male-boxer-PQ4SGVD.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/afro-american-male-boxer-PQ4SGVD-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                }
+            ],
+            "filesize": 227110,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQ4SGVD"
+        },
+        {
+            "filename": "boy-boxing-training-punch-mitts-exercise-concept-PSYNPUU.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/boy-boxing-training-punch-mitts-exercise-concept-PSYNPUU-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 193431,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSYNPUU"
+        },
+        {
+            "filename": "the-young-man-kickboxing-on-black-PQR5ZQ7.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/the-young-man-kickboxing-on-black-PQR5ZQ7-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 211513,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQR5ZQ7"
+        },
+        {
+            "filename": "athlete-doing-exercise-with-dumbbells-in-gym-RHNJB3M.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/athlete-doing-exercise-with-dumbbells-in-gym-RHNJB3M-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 377646,
+            "dimensions": [
+                1680,
+                2517
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RHNJB3M"
+        },
+        {
+            "filename": "logo@2x.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/logo@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/block-header-style-1.json",
+                    "name": "Block Header Style 1"
+                }
+            ],
+            "filesize": 4889,
+            "dimensions": [
+                349,
+                107
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/block-header-style-2.json",
+                    "name": "Block Header Style 2"
+                },
+                {
+                    "source": "templates\/footer-main.json",
+                    "name": "Footer main"
+                },
+                {
+                    "source": "templates\/footer-with-menu.json",
+                    "name": "Footer with menu"
+                },
+                {
+                    "source": "templates\/header-over-1.json",
+                    "name": "Header Over 1"
+                },
+                {
+                    "source": "templates\/header-over-2.json",
+                    "name": "Header Over 2"
+                }
+            ],
+            "filesize": 2115,
+            "dimensions": [
+                175,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "strong-boxer-training-in-a-gym-PU9BNVV.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/strong-boxer-training-in-a-gym-PU9BNVV-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                }
+            ],
+            "filesize": 215217,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU9BNVV"
+        },
+        {
+            "filename": "boxers-are-training-their-knees-with-punching-bag-GZDF4SQ.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/boxers-are-training-their-knees-with-punching-bag-GZDF4SQ-600x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 408060,
+            "dimensions": [
+                1680,
+                2204
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GZDF4SQ"
+        },
+        {
+            "filename": "boxer-training-in-a-boxing-ring-looking-aside-PQREL7N.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/boxer-training-in-a-boxing-ring-looking-aside-PQREL7N-600x740.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 280610,
+            "dimensions": [
+                1920,
+                2368
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQREL7N"
+        },
+        {
+            "filename": "woman-boxing-PMHLTL3.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/woman-boxing-PMHLTL3-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 206049,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMHLTL3"
+        },
+        {
+            "filename": "athlete-man-doing-battle-ropes-cross-fitness-exerc-U7JT56D.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/athlete-man-doing-battle-ropes-cross-fitness-exerc-U7JT56D-600x803.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 258417,
+            "dimensions": [
+                1680,
+                2247
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U7JT56D"
+        },
+        {
+            "filename": "martial-arts-fighters-hone-their-skills-P59JV6M.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/martial-arts-fighters-hone-their-skills-P59JV6M-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 259495,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P59JV6M"
+        },
+        {
+            "filename": "shutterstock_468095000.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/shutterstock_468095000-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 361587,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8095000"
+        },
+        {
+            "filename": "sportsman-with-a-naked-torso-and-in-the-red-boxing-WRNVCJP.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/sportsman-with-a-naked-torso-and-in-the-red-boxing-WRNVCJP-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/classes.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/prices.json",
+                    "name": "Prices"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 321544,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WRNVCJP"
+        },
+        {
+            "filename": "10-address.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/10-address.png",
+            "templates": [
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                }
+            ],
+            "filesize": 340,
+            "dimensions": [
+                18,
+                15
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "11-phone.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/11-phone.png",
+            "templates": [
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                }
+            ],
+            "filesize": 355,
+            "dimensions": [
+                15,
+                15
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-email.png",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/02-email.png",
+            "templates": [
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                }
+            ],
+            "filesize": 349,
+            "dimensions": [
+                15,
+                11
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-boy-training-karate-on-blue-background-PRBVLPM.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/young-boy-training-karate-on-blue-background-PRBVLPM-600x722.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 307659,
+            "dimensions": [
+                1920,
+                2311
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRBVLPM"
+        },
+        {
+            "filename": "tough-sportswoman-wrapping-hands-VSGD826.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/tough-sportswoman-wrapping-hands-VSGD826-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 149611,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSGD826"
+        },
+        {
+            "filename": "the-young-man-kickboxing-lacing-glove-PB5JQA4.jpg",
+            "thumbnail_url": "http:\/\/template-kit.ancorathemes.com\/boxing-and-fightimg\/wp-content\/uploads\/sites\/7\/2020\/04\/the-young-man-kickboxing-lacing-glove-PB5JQA4-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery-2"
+                }
+            ],
+            "filesize": 263185,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PB5JQA4"
+        }
+    ]
+}
